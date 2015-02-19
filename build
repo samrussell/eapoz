@@ -1,0 +1,2 @@
+docker build -t zmqbase zmqbase/
+docker build -t hostap hostap/
